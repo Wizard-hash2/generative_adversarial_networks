@@ -1,5 +1,5 @@
 
-# IMPOTANT: Ignore this repo for now I am working on it; KEEP CHECKING AFTER 2- 3 WEEKS
+# IMPORTANT: Ignore this repo for now I am working on it; KEEP CHECKING AFTER 2- 3 WEEKS
 this repo will cover:
 Introducing generative models for synthesizing new data  
 Autoencoders, variational autoencoders, and their relationship to GANs     
@@ -30,4 +30,5 @@ Generative Adversarial Nets by I. Goodfellow and colleagues (https://papers.nips
 # Implementing a GAN from scratch
 for this we will use googl colab jupyter notebook
 https://colab.research.google.com
-  # Implementing the generator and the discriminator networks
+
+# Implementing the generator and the discriminator networks
