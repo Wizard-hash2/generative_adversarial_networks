@@ -15,20 +15,23 @@ Generative Adversarial Nets, in Advances in Neural Information Processing System
 gan image generation: https://www.thispersondoesnotexist.com/
 
 2. Autoencoders, variational autoencoders, and their relationship to GANs 
-![alt text](image.png)
+![alt text](images/image.png)
 Learning useful representations in a deep network with a local denoising criterion by Pascal Vincent and colleagues, 2010 (http://www.jmlr.org/papers/v11/vincent10a.html).
 https://www.youtube.com/watch?v=sVitINqA0dU
 https://ideal.umd.edu/ML4ME_Textbook/part2/gen_models/VAEs.html
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 # loss functions of the generator and discriminator networks in a GAN model
 Generative Adversarial Nets by I. Goodfellow and colleagues (https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 # Implementing a GAN from scratch
 for this we will use googl colab jupyter notebook
 https://colab.research.google.com
 
 # Implementing the generator and the discriminator networks
+# training GAN model and making prediction
+![alt text](images/image-3.png)
+![alt text](images/image-4.png)
