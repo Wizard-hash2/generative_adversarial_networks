@@ -35,3 +35,18 @@ https://colab.research.google.com
 # training GAN model and making prediction
 ![alt text](images/image-3.png)
 ![alt text](images/image-4.png)
+
+# Improving the quality of synthesized images using a convolutional and Wasserstein GAN
+Unsupervised representation learning with deep convolutional generative adversarial networks, which is freely available at https://arxiv.org/pdf/1511.06434.pdf. 
+
+# Transposed convolution
+A Guide to Convolution Arithmetic for Deep Learning by Vincent Dumoulin and Francesco Visin, 2018 (https://arxiv.org/pdf/1603.07285.pdf.)
+
+https://www.geeksforgeeks.org/machine-learning/what-is-transposed-convolutional-layer/
+
+ # Batch normalization
+    
+
+ Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift, which you can access via arXiv at https://arxiv.org/pdf/1502.03167.pdf. 
+
+ How Does Batch Normalization Help Optimization?, which is freely available at http://papers.nips.cc/paper/7515-how-does-batch-normalization-help-optimization.pdf.
